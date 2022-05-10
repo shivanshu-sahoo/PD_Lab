@@ -1,0 +1,136 @@
+.css-10trblm.e16nr0p33{
+    text-align: center;
+  }
+/* @import url('https://fonts.googleapis.com/css?family=Fira+Mono:400');
+
+
+.css-10trblm.e16nr0p33{
+  animation: glitch 1s linear infinite;
+}
+
+@keyframes glitch{
+  2%,64%{
+    transform: translate(5px,0) skew(0deg);
+  }
+  4%,60%{
+    transform: translate(-5px,0) skew(0deg);
+  }
+  62%{
+    transform: translate(0,0) skew(5deg); 
+  }
+}
+
+.css-10trblm.e16nr0p33:before,
+.css-10trblm.e16nr0p33:after{
+  content: attr(title);
+  position: absolute;
+  left: 0;
+}
+
+.css-10trblm.e16nr0p33:before{
+  animation: glitchTop 1s linear infinite;
+  clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
+}
+
+@keyframes glitchTop{
+  2%,64%{
+    transform: translate(2px,-2px);
+  }
+  4%,60%{
+    transform: translate(-2px,2px);
+  }
+  62%{
+    transform: translate(13px,-1px) skew(-13deg); 
+  }
+}
+
+body{ 
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background: #131313;
+    color: #fff;
+    font-size: 96px;
+    font-family: 'Fira Mono', monospace;
+    letter-spacing: 1px;
+  } */
+/*   
+.css-10trblm.e16nr0p33:after{
+  animation: glitchBotom 1.5s linear infinite;
+  clip-path: polygon(0 67%, 100% 67%, 100% 100%, 0 100%);
+  -webkit-clip-path: polygon(0 67%, 100% 67%, 100% 100%, 0 100%);
+}
+
+@keyframes glitchBotom{
+  2%,64%{
+    transform: translate(-2px,0);
+  }
+  4%,60%{
+    transform: translate(-2px,0);
+  }
+  62%{
+    transform: translate(-22px,5px) skew(21deg); 
+  }
+}
+
+  
+ 
+
+
+
+@keyframes animate {
+0%,
+100% {
+clip-path: polygon(
+0% 45%,
+16% 44%,
+33% 50%,
+54% 60%,
+70% 61%,
+84% 59%,
+100% 52%,
+100% 100%,
+0% 100%
+);
+}
+
+50% {
+clip-path: polygon(
+0% 60%,
+15% 65%,
+34% 66%,
+51% 62%,
+67% 50%,
+84% 45%,
+100% 46%,
+100% 100%,
+0% 100%
+);
+}
+}
+
+section.css-1v3fvcr.egzxvld1 {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+} */
+
+
+
